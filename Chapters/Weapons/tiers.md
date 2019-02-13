@@ -15,3 +15,7 @@ Possible weapon tiers:
 7. God
 
 ## Durability
+
+Weapons are susceptible to taking damage and need repairs. The lower the weapon tier the faster they lose their durability.
+
+Legendary and God tier weapons should not take any durability damage.

@@ -53,3 +53,7 @@ This is something that should be rewarded rather than blatant memorization. When
 ## Enemy Damage
 
 AI controlled enemies does not determine how much damage that the enemy can do. The AI will simply determine the best outcome for that monster to win.
+
+Each monster has its own features and abilities.
+
+Lets take for example, a ferocious tiger (how scary). Its primary way of damage would logically come from its jaws and claws.
