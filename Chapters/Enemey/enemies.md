@@ -44,8 +44,12 @@ Assume that we have the following, 7 different AI levels. (A direct reference to
 
 Nothing is as boring as perfectly remembering an enemy fight with all their phases and when everything can be expected.
 
-Thehre is a good meme out there that describes the situation that we seek.
+There is a good meme out there that describes the situation that we seek.
 
 > "Improvise. Adapt. Overcome."
 
 This is something that should be rewarded rather than blatant memorization. When the world and the entities around keep suprizing players, that is truly memorable.
+
+## Enemy Damage
+
+AI controlled enemies does not determine how much damage that the enemy can do. The AI will simply determine the best outcome for that monster to win.

@@ -49,13 +49,23 @@ This is powerful as the player can truly use their imagination in whatever way t
 
 The only downside is that the concept meaningful storyline is often times completely inexistant or just not fully developped. There is no deeper meaning and the mystery behind the world as it came to be is weak.
 
-## Balance
+## Balance Dynamic Theme Park and Sandbox
 
-Essentially, each idea has their pros and cons. Theme Park is often times too restrictive and requires the developpers to offer new content once previous content has been consumed.
+### What is a Dynamic Theme Park (DTP) ?
 
-While freedom is important, Sandbox MMOs lack in the immersive experience in a solid storyline to feel as if they belong to something greater. 
+DTP is simply an advanced version of a theme park. Think of it as, a real life Theme Park such as Universal Studios or Disney land where the creators (aka developers) had little to no manual work to incorporate content. Think of it as content automatically generated via an AI and that dynamically changes as time goes by.
 
-A balance between the two, where the user from the moment they log in can decided exactly what they want to do, but also have (and are recommended) to partake in what the storyline has to offer.
+### And... why would I want such a thing?
 
-The goal in a balance is to ensure that the pros of both systems are incororated into this new game style.
+The main problem with new content today is that it needs to be manually created. Manual labor is expensive and takes time. If certain parts of this manual labor can be handed to an AI then that means the player can receive what would be called "Continuous Content".
+
+Continuous content is a way to receive new content faster and at undefined intervals. It's unexpected and always adds new things to discover and do.
+
+Imagine being in a world, where new content is added while the player is on their adventure.
+
+### The balance between DTP and Sandbox
+
+The general idea is to provide continuous content to the player while giving them the opportunity to do whatever they so choose within the game.
+
+
 
