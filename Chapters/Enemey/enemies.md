@@ -1,14 +1,32 @@
 # Enemies
 
-## Level
+## Introduction
 
-MMORPGs are centered around the idea that there are enemies to defeat. In classical MMORPGs, enemies have their own level and their own difficulty for that level. For example, a monster at X level would be expected to be "simpler" to defeat than a boss at the same level.
+Enemies are entites that are found within the world that may or not be hostile towards the player. In MMORPG games, enemies are usually the opportunity for the player's character to earn experience and earn items that drop.
 
-## Scripting
+Enemies have a few common aspects across the board. They often have a specific level and for that level can have a specific difficulty (for example, elite enemies in World of Warcraft). They also have some sort of scripting that enables the enemy to respond in a certain fashin towards the player. Each enemy does a specific amount of damage based on their level, difficulty and pool of abilities.
 
-Enemies are scripted driven, meaning that they can be expected to react to certain scenarios the same way. Often times, enemies have a specific rotation of abilities they use and their hidden abilities become apparent the lower HP they have. This is a very simplistic way to handle fights, and all that players need to do to win, is to simply memorize what enemies do at specific moments.
+We'll first talk about leveling and scripting, and then propose alternatives to that specific implementation.
 
-## AI Difficulty Solution
+## Current Implentation for some games
+
+### Level
+
+In classical MMORPGs, enemies have their own level and their own difficulty for that level. For example, a monster at X level would be expected to be "simpler" to defeat than a boss at the same level.
+
+### Scripting
+
+Enemies are scripted driven, meaning that they can be expected to react to certain scenarios the same way. Often times, enemies have a specific rotation of abilities they use and their hidden abilities become apparent the lower HP they have. 
+
+This is a very simplistic way to handle fights, and all that players need to do to win, is to simply memorize what enemies do at specific moments.
+
+### Damage done
+
+Enemies damage is often linked directly with their current level, their difficulty at that level and the pool of abilities they have at their disposal.
+
+## New implementation proposal
+
+### AI Difficulty Solution
 
 With the removal of the leveling concept for playes, how should enemy diffculty be handled. Handled in a way, where the player would have a difficult time understanding how the enemy functions.
 
@@ -40,7 +58,7 @@ Assume that we have the following, 7 different AI levels. (A direct reference to
 
 (7) God Like AI would be enemies on the level of Gods. They should be extremely exclusive and very difficult to come by and would require an enormous group of players to defeat.
 
-## Why AI based ?
+### Why AI based ?
 
 Nothing is as boring as perfectly remembering an enemy fight with all their phases and when everything can be expected.
 
@@ -50,10 +68,14 @@ There is a good meme out there that describes the situation that we seek.
 
 This is something that should be rewarded rather than blatant memorization. When the world and the entities around keep suprizing players, that is truly memorable.
 
-## Enemy Damage
+### Enemy Damage
 
 AI controlled enemies does not determine how much damage that the enemy can do. The AI will simply determine the best outcome for that monster to win.
 
 Each monster has its own features and abilities.
 
 Lets take for example, a ferocious tiger (how scary). Its primary way of damage would logically come from its jaws and claws.
+
+## Conclusion
+
+[to be determiend]

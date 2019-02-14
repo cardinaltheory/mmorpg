@@ -8,18 +8,23 @@ Cardinal Theory aims to solve the lack of innovation within MMORPGs. It's comple
 
 ## What is Cardinal Theory ?
 
-Cardinal Theory was inspired by the Sword Art Online Game System called Cardinal. Essentially, an advanced AI driven game engine to offer a mix and a balance between a Theme Park and a Sandbox MMORPG.
+Cardinal Theory was inspired by the Sword Art Online Game System called Cardinal. Essentially, an advanced AI driven game engine to offer a mix and a balance between an AI driven Theme Park and a Sandbox MMORPG.
 
 ## Table of contents
 
 ### General
-1. Balance between theme park and sandbox
-2. Dynamic and Infinite World
-3. AI Driven Enemies
-4. AI Driven Quests
-5. AI Driven Events
-6. Character Progression vs Player Progression
-7. Minimalistic Clear User Interface
+
+1. World
+    a. Balance between theme park and sandmbox mmorpg
+    b. Dynamic and Infinite World
+    c. Secret Places
+2. Enemies
+    a. Enemies
+    b. Bosses
+3. Loot
+4. Weapons
+5. Leveling
+6. Attributes
 
 ### Other ideas
 - finance
