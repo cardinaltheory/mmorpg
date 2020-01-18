@@ -2,7 +2,7 @@
 
 > Disclaimer: This is currently in the works. A first release is not to be expected anytime soon. Feel free to offer advice regarding this project in the issues section.
 
-## Our Goal
+## The Goal
 
 Cardinal Theory aims to solve the lack of innovation within MMORPGs. It's completely hypothetical and does not take into account possible technological limits. The idea is to let ones imagination go free and to see where it can go.
 
